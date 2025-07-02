@@ -73,6 +73,7 @@ nav {
     align-items: center;
     text-align: center;
     color: #fff;
+    object-fit: cover;
 }
 
 .hero-content {
